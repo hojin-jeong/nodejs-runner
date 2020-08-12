@@ -2,6 +2,4 @@
 
 cd /app
 /usr/bin/npm install
-/usr/bin/node -v
-
-echo $JSFILE
+/usr/bin/node /app/$JSFILE
